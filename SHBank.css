@@ -1,0 +1,187 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    border: none;
+}
+
+.main-layout {
+    width: 1145px;
+    height: 1000px;
+    background-color: rgba(122, 122, 232, 0.099);
+    margin: auto;
+}
+
+.header-container {
+    width: 100%;
+    height: 90px;
+    background-color: aliceblue;
+
+}
+
+.col-1 {
+    float: left;
+    width: 50%;
+    height: 90px;
+    background-color: aliceblue;
+
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+
+}
+
+.col-2 {
+    float: left;
+    width: 50%;
+    height: 90px;
+    background-color: aliceblue;
+
+}
+
+.career-bt {
+    width: fit-content;
+    height: fit-content;
+    background-color: #162840;
+    color: white;
+    float: right;
+    border-right: 1px;
+    padding: 6px;
+    padding-left: 6px;
+    border-right: 6px;
+    margin-right: 90px;
+    margin-left: 1px;
+    border-bottom-right-radius: 8px;
+}
+
+.home-bt {
+    width: fit-content;
+    height: fit-content;
+    background-color: #162840;
+    color: white;
+    float: right;
+    border-right: 1px;
+    padding: 6px;
+    padding-left: 6px;
+    border-right: 6px;
+    margin-left: 80px;
+    border-bottom-left-radius: 8px;
+}
+
+.home-bt:hover,
+.career-bt:hover {
+    color: goldenrod;
+}
+
+
+.client-login {
+    float: right;
+    margin-left: 350px;
+    margin-top: 8px;
+    position: absolute;
+
+
+
+
+
+}
+
+.row-1::after {
+    content: "";
+    clear: both;
+
+
+}
+
+.nav-container {
+    width: 100%;
+    height: 40px;
+    background-color: #162840;
+}
+
+.banner-container {
+    width: 100%;
+    height: 360px;
+    background-color: #162840;
+    margin-top: 1px;
+
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.content-container {
+    width: 100%;
+    height: 390px;
+    background-color: rgb(181, 205, 227);
+    margin-top: 4px;
+}
+
+.footer-container {
+    width: 100%;
+    height: 90px;
+    background-color: #162840;
+    float: left;
+    margin-top: 40px;
+}
+
+/*.TnC,
+.Line1,
+.SMap,
+.Line2,
+.Ir {
+    
+    
+
+    color: white;
+    margin-left: 3px;
+    position: relative;
+    top: 10px;
+    font-size: medium;
+
+
+}
+
+.TnC:hover,
+.SMap:hover,
+.Ir:hover {
+    color: goldenrod;
+}
+
+.topleft-footer::after{
+    content: "";
+    clear: both;
+}
+
+
+.bottomleft-footer {
+    
+    color: white;
+    margin-top: 100px;
+    font-size: small;
+    margin-left: 5px;
+
+
+}
+.bottomleft-footer::after{
+    content: "";
+    clear: left;
+}
+
+
+
+
+.users-count {
+    column-width: 30%;
+    height: 90px;
+
+
+}*/
+
